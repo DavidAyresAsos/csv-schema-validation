@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8D3LLwgFooF6I5hNpL+4aKfATL/o6wkEaoHyRMhZ//9IMAVxWDz1Ij6BIYbqR2r95dVMxWGmDItPhxpPNVJNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david.ayres\\source\\repos\\csv-schema-validation\\CSVSchemaTest\\CSVSchemaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.ayres\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\json.more.net\\2.0.0\\json.more.net.2.0.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\jsonpointer.net\\4.0.0\\jsonpointer.net.4.0.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\jsonschema.net\\6.1.2\\jsonschema.net.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

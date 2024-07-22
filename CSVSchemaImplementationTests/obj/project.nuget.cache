@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcPz7VTRwe5jiJwzkjcdkMgQZgxlxreAqTovKzcWut+nBb5NhRZe4OicCsyYnXk0vl3A+akNWr5Bln9i3rq2Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david.ayres\\source\\repos\\csv-schema-validation\\CSVSchemaImplementationTests\\CSVSchemaImplementationTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david.ayres\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\json.more.net\\2.0.0\\json.more.net.2.0.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\jsonpointer.net\\4.0.0\\jsonpointer.net.4.0.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\jsonschema.net\\6.1.2\\jsonschema.net.6.1.2.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\david.ayres\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
